@@ -1,6 +1,5 @@
 ///Utility functions
 
-
 function is_mouse_on_sprite() {
 	if (mouse_x > x - sprite_width/2 
 		and mouse_x < x + sprite_width/2

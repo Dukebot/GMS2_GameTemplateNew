@@ -1,2 +1,2 @@
 instance_create(oGame);
-instance_create(oPauseButton);
+//instance_create(oPauseButton);
